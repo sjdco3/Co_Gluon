@@ -1,0 +1,19 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package ex02_glu_cosd;
+
+/**
+ *
+ * @author sophie
+ */
+public class BasketballPlayer {
+    String player;
+    double height;
+    
+    public BasketballPlayer(){
+        player = "Luka Doncic";
+        height = 2.01;
+    }
+}
